@@ -1,0 +1,48 @@
+## Introduction
+
+This notebook demonstrates the use of Markdown and code cells in Jupyterlite. It covers basic data science concepts, languages, libraries, tools, and arithmetic operations.
+### Data Science Languages
+
+- Python
+- R
+- SQL
+- Julia
+- Scala
+### Data Science Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+### Data Science Tools
+
+| Tool            | Description                         |
+|-----------------|-----------------------------------|
+| Jupyter         | Interactive notebooks              |
+| RStudio         | IDE for R programming              |
+| Apache Spark    | Big data processing framework      |
+| Tableau         | Data visualization software        |
+| GitHub          | Version control and collaboration  |
+### Arithmetic Expression Examples
+
+You can perform basic arithmetic operations like addition, subtraction, multiplication, and division in code cells.
+# Multiply and add numbers
+product = 10 * 5
+sum_ = 10 + 5
+print("Product:", product)
+print("Sum:", sum_)
+# Convert minutes to hours
+minutes = 150
+hours = minutes / 60
+print(f"{minutes} minutes is equal to {hours} hours.")
+### Project Goals
+
+- Understand Markdown and code cells in Jupyterlite
+- List common data science languages and libraries
+- Demonstrate basic arithmetic operations in Python
+- Practice converting units using code
+- Share notebook publicly on GitHub
+### Author
+
+Engin BALCI
