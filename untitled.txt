@@ -1,48 +1,39 @@
-## Introduction
+Data Science Tools and Ecosystem
+In this notebook, Data Science Tools and Ecosystem are summarized.
 
-This notebook demonstrates the use of Markdown and code cells in Jupyterlite. It covers basic data science concepts, languages, libraries, tools, and arithmetic operations.
-### Data Science Languages
+Objectives:
 
-- Python
-- R
-- SQL
-- Julia
-- Scala
-### Data Science Libraries
+Create a Jupyter Notebook
+Insert code and markdown cells
+List popular languages for Data Science
+List commonly used libraries for Data Science
+Demonstrate arithmetic expressions in Python
+Share a notebook through GitHub
+Some of the popular languages that Data Scientists use are:
 
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- TensorFlow
-### Data Science Tools
+Python
+R
+SQL
+Java
+Some of the common libraries used by data scientists include:
 
-| Tool            | Description                         |
-|-----------------|-----------------------------------|
-| Jupyter         | Interactive notebooks              |
-| RStudio         | IDE for R programming              |
-| Apache Spark    | Big data processing framework      |
-| Tableau         | Data visualization software        |
-| GitHub          | Version control and collaboration  |
-### Arithmetic Expression Examples
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+Below are a few common open-source tools used in Data Science:
 
-You can perform basic arithmetic operations like addition, subtraction, multiplication, and division in code cells.
-# Multiply and add numbers
-product = 10 * 5
-sum_ = 10 + 5
-print("Product:", product)
-print("Sum:", sum_)
-# Convert minutes to hours
-minutes = 150
-hours = minutes / 60
-print(f"{minutes} minutes is equal to {hours} hours.")
-### Project Goals
-
-- Understand Markdown and code cells in Jupyterlite
-- List common data science languages and libraries
-- Demonstrate basic arithmetic operations in Python
-- Practice converting units using code
-- Share notebook publicly on GitHub
-### Author
-
+Data Science Tools
+Jupyter Notebook
+RStudio
+Apache Zeppelin
+VS Code
+Below are a few examples of evaluating arithmetic expressions in Python
+# This is a simple arithmetic expression to multiply then add integers
+(3*4)+5
+17
+# This will convert minutes to hours by dividing by 60
+200 / 60
+3.3333333333333335
+Author
 Engin BALCI
